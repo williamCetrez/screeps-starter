@@ -1,9 +1,9 @@
 module.exports = {
-  email: "EMAIL ADDRESS",
-  password: "password",
+  email: "williamleivo@hotmail.com",
+  password: "Dexter98",
   branch: "default",
   ptr: false,
-  host: "IPADDRESS",
+  host: "138.68.78.167",
   port: 21025,
   secure: false
 };
