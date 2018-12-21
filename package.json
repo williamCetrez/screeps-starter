@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jackoliver/screeps-starter#readme",
   "dependencies": {
-    "gulp": "^4.0.0",
+    "gulp": "^3.9.1",
     "gulp-screeps": "^1.0.8"
   }
 }

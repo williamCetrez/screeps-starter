@@ -5,7 +5,7 @@ var screeps = require("gulp-screeps");
 var credentials = require("./env.private.js");
 
 gulp.task('watch', function () {
-  gulp.watch('*.js', gulp.series('screeps'));
+  gulp.watch('*.js', ['screeps']);
 });
 
 gulp.task('screeps', function () {
